@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Silabus php
+    Silabus php tenemos un silabus
 </body>
 </html>
