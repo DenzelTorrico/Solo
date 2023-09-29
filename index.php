@@ -9,6 +9,7 @@
 </head>
 <body>
     <input type="text" value="echo por leonardo">
-    <p>Modificado por denzel encima de lo que hizo leonardo</p>
+    <p>SE HIZO UN NUEVO CAMBIO</p>
+    <a href="./silabus.php">SILABUS</a>
 </body>
 </html>
